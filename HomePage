@@ -6,16 +6,52 @@
   <meta name="keywords" content="Ridesharing, University, ">
   <meta name="author" content="Andrew Galazka, Ryan Small, and Stacy Sosa">
 <style>
+<!--THIS IS A SAMPLE COVER PHOTO-->
 #header {
-    background:url("https://pixabay.com/static/uploads/photo/2015/07/29/00/08/way-865298__180.jpg");
+    background:url("http://www.sleekcover.com/covers/the-car-facebook-cover.jpg") no-repeat;
     width: 100%;
-    padding:5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 150px;
+    font-weight: bold;
+    font-family: Arial;
+    color: #FFFFFF;
+    background-color: #862633;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #EED484;
 }
 </style>
 </head>
 <body>
+  <!--THIS IS A SAMPLE COVER PHOTO-->
   <div id="header">
-    <img src="https://pixabay.com/static/uploads/photo/2015/07/29/00/08/way-865298__180.jpg" />
+    <img src="http://www.sleekcover.com/covers/the-car-facebook-cover.jpg" />
   </div>
+<!--THIS IS A SAMPLE NAVIGATION BAR -->
+<ul>
+  <li><a href="#find">Find A Ride</a></li>
+  <li><a href="#list">List a Ride</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#RTips">Rider Tips</a></li>
+  <li><a href="#DTips">Driver Tips</a></li>
+</ul>
 </body>
 </html>
