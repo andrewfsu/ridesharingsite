@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>UniRide | Student Ridesharing Website</title>
+  <meta name="description" content="A ridesharing website that connects university students in order to provide low cost transportation">
+  <meta name="keywords" content="Ridesharing, University, ">
+  <meta name="author" content="Andrew Galazka, Ryan Small, and Stacy Sosa">
+<style>
+#header {
+    background:url("https://pixabay.com/static/uploads/photo/2015/07/29/00/08/way-865298__180.jpg");
+    width: 100%;
+    padding:5px;
+}
+</style>
+</head>
+<body>
+  <div id="header">
+    <img src="https://pixabay.com/static/uploads/photo/2015/07/29/00/08/way-865298__180.jpg" />
+  </div>
+</body>
+</html>
