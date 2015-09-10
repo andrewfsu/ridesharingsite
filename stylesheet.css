@@ -1,1 +1,30 @@
 
+//CSS File
+#header {
+    background:url("http://www.sleekcover.com/covers/the-car-facebook-cover.jpg") no-repeat;
+    width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+a:link, a:visited {
+    display: block;
+    width: 150px;
+    font-weight: bold;
+    font-family: Arial;
+    color: #FFFFFF;
+    background-color: #862633;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover, a:active {
+    background-color: #EED484;
+}
